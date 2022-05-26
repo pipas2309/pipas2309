@@ -13,7 +13,8 @@ const itsMeForNow = {
           focus: "Full Stack Dev",
           myDedication: "Full-time"
     },
-    challenge: "Start a workout routine" 
+    challenge: "Start a workout routine", 
+    funFact: "I speak portuguese and english"
 }
 ```
 #
