@@ -19,10 +19,10 @@ const itsMeForNow = {
 ```
 #
 
-My name is Lucas Palharini, and get interested in programming when i started using the computer at 12 years old, 
-and today I'm currently studying at the Driven Education bootcamp. 
+My name is Lucas Palharini. I'm currently studying at the Driven Education bootcamp.
+By the age of 12 years, when I started using the computer, I got interested in programming.
 I had to go a long way in and out of college until I realized that: 
-I like it, I'm good, I can study and dedicate myself to becoming an excellent full stack developer
+Coding is what I like, is what I'm good with. And I know I can become an excelent developer in due time.
 
 <!-- 
 **Some extra facts about me:**
@@ -30,8 +30,7 @@ I like it, I'm good, I can study and dedicate myself to becoming an excellent fu
 - 💞️ I’m looking to collaborate on full-stack and front-end area
 -->
 
-<br />
-<br />
+
 
 #### Talk to me, my English is not perfect, but I would love to chat:
 [![Linkedin: lucas-palharini](https://img.shields.io/badge/-LucasPalharini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-palharini-749799166/)](https://www.linkedin.com/in/lucas-palharini-749799166/)
@@ -40,11 +39,9 @@ I like it, I'm good, I can study and dedicate myself to becoming an excellent fu
 
 <p align="center">:zap: GitHub Stats and Most Used Languages:zap:</p>
 
- <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pipas2309&show_icons=true&hide_border=true" style />
+<img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pipas2309&show_icons=true&hide_border=true" style />
 
-
-
-  <img align="right" margin="auto" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipas2309" />
+<img  alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipas2309" />
 
 
 <!--
