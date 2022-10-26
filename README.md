@@ -7,8 +7,8 @@
 ```javascript
 const itsMeForNow = {
     code: [Javascript, Typescript, HTML, CSS],
-    frontend: [React, Styled-Components, Cypress, Custom Hooks],
-    backend: [Node, Express, Prisma, Jest, Supertest, POO],
+    front: [React, Styled-Components, Cypress],
+    back: [Node, Express, Prisma, Jest, Supertest],
     database: [MongoDB, PostgreSQL, Redis],
     devOps: [AWS, Docker, GitHub-Actions],
     extra: {
