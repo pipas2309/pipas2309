@@ -6,7 +6,7 @@
 
 ```javascript
 const itsMeForNow = {
-    code: [Javascript, Typescript, HTML, CSS],
+    code: [Javascript, Typescript, HTML, CSS, OOP],
     front: [React, Styled-Components, Cypress],
     back: [Node, Express, Prisma, Jest, Supertest],
     database: [MongoDB, PostgreSQL, Redis],
@@ -23,18 +23,41 @@ const itsMeForNow = {
 
 #### 🌱 A little more about me...  
 
-My name is Lucas Palharini. I'm currently studying at the Driven Education bootcamp.
+My name is Lucas Palharini. I'm a Fullstack Developer.
 By the age of 12 years, when I started using the computer, I got interested in programming.
 I had to go a long way in and out of college until I realized that: 
 Coding is what I like, is what I'm good with. And I know I can become an excelent developer in due time.
 
-<!-- 
+
 **Some extra facts about me:**
-- 🌱 I’m currently learning javascript and react
-- 💞️ I’m looking to collaborate on full-stack and front-end area
+- 🌱 I’m currently studying typescript, node.js and POO;
+- 💞️ I’m looking to collaborate on full-stack area;
+- 😄 I’m INFP-A.
+
+
+<!--
+#### <p align="left">Technical skills:</p>
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="expressjs" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amazon web services" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px">
+<p align="center" style="font-size: 12px; font-style: italic;">Not even a Haiku, but we're getting there</p>
+
+</p>
 -->
-
-
 
 #### Talk to me, my English is not perfect, but I would love to chat:
 [![Linkedin: lucas-palharini](https://img.shields.io/badge/-LucasPalharini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-palharini/)](https://www.linkedin.com/in/lucas-palharini/)
@@ -47,8 +70,8 @@ Coding is what I like, is what I'm good with. And I know I can become an excelen
 
 <img  alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipas2309" />
 
-
 <!--
+
 **pipas2309/pipas2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
