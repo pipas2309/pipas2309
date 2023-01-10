@@ -66,9 +66,8 @@ Coding is what I like, is what I'm good with. And I know I can become an excelen
 
 <p align="center">:zap: GitHub Stats and Most Used Languages:zap:</p>
 
-<img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pipas2309&show_icons=true&hide_border=true" style />
-
-<img  alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipas2309" />
+| [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pipas2309&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/pipas2309) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipas2309&layout=compact)](https://github.com/pipas2309)
+| ------------- | ------------- |
 
 <!--
 
