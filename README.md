@@ -64,10 +64,11 @@ Coding is what I like, is what I'm good with. And I know I can become an excelen
 [![GitHub Lucas](https://img.shields.io/github/followers/pipas2309?label=follow&style=social)](https://github.com/pipas2309)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:bazezimo42@gmail.com)
 
-<p align="center">:zap: GitHub Stats and Most Used Languages:zap:</p>
+<!-- ERROR!?!?!? <p align="center">:zap: GitHub Stats and Most Used Languages:zap:</p>
 
 | [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pipas2309&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/pipas2309) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipas2309&layout=compact)](https://github.com/pipas2309)
 | ------------- | ------------- |
+-->
 
 <!--
 
