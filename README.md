@@ -14,7 +14,7 @@ const itsMeForNow = {
     extra: {
         animals: "love",
         englishLevel: "intermediate-B2",
-        wannaLearn: [Ruby, Java],
+        wannaLearn: [Ruby, C#],
         hobbies: [Walking, Reading, Videogames]
     }
 } //that's it for now folks
@@ -30,7 +30,7 @@ Coding is what I like, is what I'm good with. And I know I can become an excelen
 
 
 **Some extra facts about me:**
-- 🌱 I’m currently studying typescript, node.js and POO;
+- 🌱 I’m currently self-taught studying typescript, node.js, POO, Java, React and Springboot;
 - 💞️ I’m looking to collaborate on full-stack area;
 - 😄 I’m INFP-A.
 
