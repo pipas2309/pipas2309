@@ -12,7 +12,7 @@ const itsMeForNow = {
     database: [MongoDB, PostgreSQL, Redis],
     devOps: [AWS, Docker, GitHub-Actions],
     extra: {
-        animals: "love",
+        learning: "springboot",
         englishLevel: "intermediate-B2",
         wannaLearn: [Ruby, C#],
         hobbies: [Walking, Reading, Videogames]
