@@ -31,7 +31,7 @@ Coding is what I like, is what I'm good with. And I know I can become an excelen
 
 **Some extra facts about me:**
 - 🌱 I’m currently self-taught studying typescript, node.js, POO, Java, React and Springboot;
-- 💞️ I’m looking to collaborate on full-stack area;
+- 💞️ I'm currently in 3 personal projects: collab with the proposal to create an electronic commerce, Poetry collection page and Social network like a tweeter.
 - 😄 I’m INFP-A.
 
 
