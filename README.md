@@ -6,7 +6,7 @@
 
 ```javascript
 const itsMeForNow = {
-    code: [Java, Javascript, Typescript, HTML, CSS, OOP],
+    code: [Javascript, Typescript, Java, HTML, CSS, OOP],
     front: [React, Styled-Components, Cypress],
     back: [Node, Express, Prisma, Jest, Supertest],
     database: [MongoDB, PostgreSQL, Redis],
