@@ -1,87 +1,58 @@
-## Hi, I'm Lucas! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<img align="right" src="https://user-images.githubusercontent.com/97993001/170432301-e13759f0-6cdc-4265-8926-b4865f632ba6.png">
+# Multilanguage README Pattern
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/pipas2309/pipas2309/blob/main/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/pipas2309/pipas2309/blob/main/README.pt-br.md)
 
+## Hello, I'm Lucas! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
+<img align="left" width=500 px src="https://user-images.githubusercontent.com/97993001/170432301-e13759f0-6cdc-4265-8926-b4865f632ba6.png">
 
-```javascript
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipas2309)](https://github.com/pipas2309)
+
+```Javascript
 const itsMeForNow = {
-    code: [Javascript, Typescript, Java, HTML, CSS, OOP],
-    front: [React, Styled-Components, Cypress],
-    back: [Node, Express, Prisma, Jest, Supertest],
+    languages: [Typescript, Kotlin, PHP, Java],
+    frontend: [React, Vue, HTML, CSS],
+    backend: [Node, Symfony, Springboot, Prisma, Doctrine],
     database: [MongoDB, PostgreSQL, Redis],
     devOps: [AWS, Docker, GitHub-Actions],
+    tests: [Jest, Cypress, PHPUnit],
+    tools: [Insomnia, Bitbucket, GitLab, JetBrains_IDEs],
     extra: {
-        learning: "springboot",
         englishLevel: "intermediate-B2",
-        wannaLearn: [Ruby, C#],
-        hobbies: [Walking, Reading, Videogames]
+        wannaLearn: ["Ruby", "Python"],
+        lazer: ["Reading", "Playing videogames", "Taking a walk with my loved ones and pets"],
+        favoriteFoods: ["Coffee", "Chocolate", "Caipirinha"]
     }
-} //that's it for now folks
+} 
 ```
-#
 
-#### 🌱 A little more about me...  
+### 🌱 A little more about me...
 
-My name is Lucas Palharini. I'm a Fullstack Developer.
-By the age of 12 years, when I started using the computer, I got interested in programming.
-I had to go a long way in and out of college until I realized that: 
-Coding is what I like, is what I'm good with. And I know I can become an excelent developer in due time.
-
+My name is Lucas Palharini. I'm a Fullstack Developer, currently focusing on backend. Since I was 12 years old, when I started using the computer, I became interested in programming. I had to go a long way inside and outside of college until I realized that: Coding is what I like and I'm good at. Coding and having a good coffee is just amazing!
 
 **Some extra facts about me:**
-- 🌱 I’m currently self-taught studying typescript, node.js, POO, Java, React and Springboot;
-- 💞️ I'm currently in 3 personal projects: collab with the proposal to create an electronic commerce, Poetry collection page and Social network like a tweeter.
-- 😄 I’m INFP-A.
 
+-    🌱 I'm currently studying Kotlin, Springboot, and architectures (like hexagonal);
+-    💞️ I work with a modular monolith in Kotlin, besides projects in PHP and Node;
+-    📚 I'm taking ADS and other materials focused on hexagonal architecture and SpringBoot;
+-    🎮 I like to read, play video games, play with my cat and dog, and of course, enjoy a good time with my wonderful wife ♥;
+-    ☕ I'm passionate about a good coffee, chocolate, and a strong and sweet Caipirinha :)
 
-<!--
-#### <p align="left">Technical skills:</p>
+<br>
 
-<p align="left">
+### 💼 Professional Experience
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="expressjs" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amazon web services" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px">
-<p align="center" style="font-size: 12px; font-style: italic;">Not even a Haiku, but we're getting there</p>
+-   **Recent Challenges:**
+    -   Implementation of a modular monolith in Kotlin.
+    -   Legacy architecture update in PHP to hexagonal architecture.
 
-</p>
--->
+<br>
 
-#### Talk to me, my English is not perfect, but I would love to chat:
-[![Linkedin: lucas-palharini](https://img.shields.io/badge/-LucasPalharini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-palharini/)](https://www.linkedin.com/in/lucas-palharini/)
-[![GitHub Lucas](https://img.shields.io/github/followers/pipas2309?label=follow&style=social)](https://github.com/pipas2309)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:bazezimo42@gmail.com)
+### 📫 Get in touch
 
-<p align="center">:zap: GitHub Stats and Most Used Languages:zap:</p>
+[![Linkedin: lucas-palharini](https://img.shields.io/badge/-LucasPalharini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-palharini/)](https://www.linkedin.com/in/lucas-palharini/)   [![GitHub Lucas](https://img.shields.io/github/followers/pipas2309?label=follow&style=social)](https://github.com/pipas2309) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:bazezimo42@gmail.com)
 
-| [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pipas2309&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/pipas2309) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipas2309&layout=compact)](https://github.com/pipas2309)
-| ------------- | ------------- |
+<br>
 
-
-<!--
-
-**pipas2309/pipas2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center" size=32>"That's all, folks! 🐰"</h3> 
