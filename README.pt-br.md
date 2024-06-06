@@ -1,25 +1,25 @@
 
-# Multilanguage README Pattern
+## Padrão README multilíngue
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/pipas2309/pipas2309/blob/main/README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/pipas2309/pipas2309/blob/main/README.pt-br.md)
 
-## Olá, eu sou o Lucas! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
-<img align="left" width=500 px src="https://user-images.githubusercontent.com/97993001/170432301-e13759f0-6cdc-4265-8926-b4865f632ba6.png">
+# Olá, eu sou o Lucas! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+    
+[<img align="left" width=500px src="https://user-images.githubusercontent.com/97993001/170432301-e13759f0-6cdc-4265-8926-b4865f632ba6.png">](https://github.com/pipas2309)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipas2309)](https://github.com/pipas2309)
 
 ```Javascript
 const itsMeForNow = {
-    linguagens: [Typescript, Kotlin, PHP, Java],
+    linguagens: [Typescript, Kotlin, PHP, Java{17,21}],
     frontend: [React, Vue, HTML, CSS],
     backend: [Node, Symfony, Springboot, Prisma, Doctrine],
-    database: [MongoDB, PostgreSQL, Redis],
+    bancoDeDados: [MongoDB, PostgreSQL, MySQL, Redis],
     devOps: [AWS, Docker, GitHub-Actions],
     testes: [Jest, Cypress, PHPUnit],
     ferramentas: [Insomnia, Bitbucket, GitLab, JetBrains_IDEs],
-    extra: {
-        meuIngles: "intermediate-B2",
+    extras: {
+        meuIngles: intermediário.B2",
         queroAprender: ["Ruby", "Python"],
         lazer: ["Ler", "Jogar", "Passear com meu amor e meus animais"],
         comidaFavorita: ["Café", "Chocolate", "Caipirinha"]
