@@ -19,7 +19,7 @@ const itsMeForNow = {
     testes: [Jest, Cypress, PHPUnit],
     ferramentas: [Insomnia, Bitbucket, GitLab, JetBrains_IDEs],
     extras: {
-        meuIngles: intermediário.B2",
+        meuIngles: intermediário.B2,
         queroAprender: ["Ruby", "Python"],
         lazer: ["Ler", "Jogar", "Passear com meu amor e meus animais"],
         comidaFavorita: ["Café", "Chocolate", "Caipirinha"]
