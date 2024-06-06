@@ -11,7 +11,7 @@
 
 ```Javascript
 const itsMeForNow = {
-    linguagens: [Typescript, Kotlin, PHP, Java{17,21}],
+    linguagens: [Typescript, Kotlin, PHP, java(17,21)],
     frontend: [React, Vue, HTML, CSS],
     backend: [Node, Symfony, Springboot, Prisma, Doctrine],
     bancoDeDados: [MongoDB, PostgreSQL, MySQL, Redis],
