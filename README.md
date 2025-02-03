@@ -11,13 +11,13 @@
 
 ```Javascript
 const itsMeForNow = {
-    languages: [Typescript, Kotlin, PHP, java(17, 21)],
-    frontend: [React, Vue, HTML, CSS],
-    backend: [Node, Symfony, Springboot, Prisma, Doctrine],
+    languages: [Typescript, Kotlin, PHP, Java],
+    frontend: [React, Next],
+    backend: [Node, Symfony, Springboot, Zend, Doctrine],
     database: [MongoDB, PostgreSQL, MySQL, Redis],
     devOps: [AWS, Docker, GitHub-Actions],
     tests: [Jest, Cypress, PHPUnit],
-    tools: [Insomnia, Bitbucket, GitLab, JetBrains_IDEs],
+    tools: [Kafka, Agile, GitLab, JetBrains_IDEs],
     extras: {
         englishLevel: intermediate.B2,
         wannaLearn: ["Ruby", "Python"],
